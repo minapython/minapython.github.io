@@ -11,7 +11,7 @@
     "moduleType": "Image",
     "baseURL": "https://mangapill.com/",
     "moduleDeveloperSite": "https://minapython.github.io",
-    "UpdateSite": "https://raw.githubusercontent.com/minapython/module.json",
+    "UpdateSite": "https://minapython.github.io/MangaPill.json",
     "preferedServer": "",
     "preferedDownloadServer": "",
     "blackListed": [
